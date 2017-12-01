@@ -5,4 +5,4 @@
 * `Providers` - class I/O text file,  
 * `Worker` - class of generator SHA256 according to data from file
 
-java -jar TestTask1 file1.txt file2.txt
+Example: java -jar TestTask1-1.0-SNAPSHOT.jar D:\\testlog1.txt
